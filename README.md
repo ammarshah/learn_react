@@ -1,6 +1,6 @@
 # Learn React
 
-This is a sample project while learning React from [React 18 for Beginners](https://codewithmosh.com/p/ultimate-react-part1) course by Most Hamedani.
+This is a sample project while learning React from [React 18 for Beginners](https://codewithmosh.com/p/ultimate-react-part1) course by Mosh Hamedani.
 
 ## How to setup
 
